@@ -56,3 +56,10 @@ footer {
     position: relative;
     bottom: 5px;
 }
+
+.dogs-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-flow: row wrap;
+}
